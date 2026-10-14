@@ -1,4 +1,4 @@
-# homeCreditDefaultRisk
+# HomeCreditDefaultRisk
 It's never late to start a project, right?
 New challenge!!
 
